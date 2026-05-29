@@ -1861,5 +1861,14 @@
       "techStack": ["tool", "html", "css", "javascript"],
       "difficulty": "advanced",
       "projectPath": "./public/Streak-Visualizer/index.html"
+    },
+    {
+      "projectNo": 189,
+      "projectName": "Escape the room",
+      "projectType": "Game",
+      "projectDesc": "A web based escame the room game with single level , timer and a terminal like interface.",
+      "techStack": [ "html", "css", "javascript"],
+      "difficulty": "medium",
+      "projectPath": "./public/Escape Room/index.html"
     }
 ]
